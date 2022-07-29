@@ -1,0 +1,10 @@
+.container{
+  width:550px;
+  height:704px;
+  overflow:auto;
+  border-radius: 20px;
+  background: #FFFFFF;
+}
+.container::-webkit-scrollbar{
+  display: none;
+}

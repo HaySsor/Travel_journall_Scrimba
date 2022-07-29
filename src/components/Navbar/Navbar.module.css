@@ -1,0 +1,17 @@
+.nav h1 {
+	font-family: "Inter";
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14.5px;
+	line-height: 18px;
+	letter-spacing: -0.075em;
+	margin-left: 5px;
+	color: #fff;
+}
+.nav {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #f55a5a;
+	padding: 10px;
+}
